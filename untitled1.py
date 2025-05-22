@@ -264,7 +264,7 @@ elif page == "About Project":
     <div class='block-container'>
     <p>
     <b>Dataset:</b> 300,000+ flight bookings with key info on airline, city, route, class, and price.<br>
-    <b>Project Lead:</b> [Your Name]<br>
+    <b>Project Lead:</b> [Madhusudhanan]<br>
     <b>Use Case:</b> Business-ready, AI-powered flight price prediction.<br>
     <b>Tech Stack:</b> Python, pandas, matplotlib, seaborn, scikit-learn, Streamlit.<br>
     </p>
